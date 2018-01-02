@@ -1,0 +1,3 @@
+rootProject.name = 'BMS'
+
+include ':app'
